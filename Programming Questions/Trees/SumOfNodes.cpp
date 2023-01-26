@@ -1,5 +1,5 @@
 /*
-    Given a generic tree, find and return the sum of all nodes present in the given tree.
+Given a generic tree, find and return the sum of all nodes present in the given tree.
 */
 
 #include <iostream>
