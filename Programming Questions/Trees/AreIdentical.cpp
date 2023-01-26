@@ -23,7 +23,6 @@ class TreeNode {
 
 //Solution
 bool areIdentical(TreeNode<int> *root1, TreeNode<int> *root2) {
-  // Write your code here
     if(root1 == nullptr && root2 != nullptr || root2 == nullptr && root1 != nullptr)
         return false;
     
