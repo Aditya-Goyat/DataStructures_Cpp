@@ -69,5 +69,5 @@ BinaryTreeNode<int>* takeInput() {
 
 int main() {
     BinaryTreeNode<int> *root = takeInput();
-    
+    std::cout << DiameterOfTree(root)->second << std::endl;
 }
